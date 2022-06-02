@@ -75,7 +75,7 @@ scipy
 seaborn==0.11.2
 six
 tensorboard
-tensorboard-plugin-wit==1.6.0
+tensorboard-plugin-wit
 tensorflow==2.3.0
 tensorflow-estimator
 termcolor==1.1.0
